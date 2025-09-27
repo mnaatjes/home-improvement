@@ -95,3 +95,6 @@ Document contains a list of all projects for home improvement.
 - [ ] Bebuild Deck
 - [ ] Concrete slab instead of deck
 - [ ] Enclosed patio kit
+- [X] Finish garage windows
+- [ ] Reframe window exteriors
+- [ ] Repair / Replace Siding
