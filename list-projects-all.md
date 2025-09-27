@@ -9,6 +9,7 @@ Document contains a list of all projects for home improvement.
 
 ## 1.0 Small Projects
 
+### 1.1 By Room
 **Kitchen:**
 - [ ] Strip and Repaint Cabinets and Cabinet Doors
 - [ ] Resurface Tile
@@ -52,12 +53,19 @@ Document contains a list of all projects for home improvement.
 - [ ] Remove window and close OR replace with smaller window / opening
 - [ ] Recessed lights
 
+**Laundy Room:**
+- [ ] Consolidate Gas pipes in room
+- [ ] Consolidate Plumbing in room
+- [ ] Built-in for Washer and Dryer
+- [ ] New Cabinets
+- [ ] Frame utility area with door
+- [ ] New attic access
+
 ### 2.2 By Project
 - [ ] New electrical zone for living room (separate from office)
 - [ ] New electrical zone for garage (separate from kitchen)
 - [ ] Wood flooring in office
 - [ ] Repair / Repaint / Replace trim
-
 
 ## 3.0 Outdoor / Landscaping
 
@@ -70,7 +78,8 @@ Document contains a list of all projects for home improvement.
 - [X] Fill cracks in driveway
 - [ ] Resurface Driveway
 - [X] Move North and South side fences to level with East side of house
-
+- [ ] Landscape South side from garage to property line
+- [ ] Remove hedge and replace with arbor vitie
 
 ### 3.2 Back Yard
 
@@ -80,6 +89,7 @@ Document contains a list of all projects for home improvement.
 - [ ] Move garden behind new fence
 - [ ] Shed
 - [X] Remove Mullberry Tree
+- [ ] Finish landscaping from North Side to deck
 
 ### 3.3 Outdoor Construction
 - [ ] Bebuild Deck
